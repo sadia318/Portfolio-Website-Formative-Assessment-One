@@ -1,0 +1,153 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}
+.Home{
+   text-align: center;
+   height: 300px;
+   width: 1700px;
+   background-color: rgb(44, 8, 8);
+   color: white;
+   padding-top: 70px;
+   border-bottom-right-radius: 30px;
+   
+}
+.About{
+    display: flex;
+    padding-right: 300px;
+}
+.about-div{
+    text-align: justify;
+    margin-left: 300px;
+    margin-top: 150px;
+    margin-right: 50px;
+
+} 
+.about-img{
+    height: 600px;
+
+}
+.Skills{
+    width: 1700px;
+    height: 400px;
+    background-color:whitesmoke;
+}
+.skills-div{
+    display: flex;
+    margin-left: 400px;
+    
+}
+#skills-h{
+    font-size: 35px;
+    margin-left: 700px;
+    padding-top: 15px;
+}
+.skills-div-one{
+    
+    border: 1px solid rgb(157, 245, 17);
+    margin-left: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+.skills-div-one:hover{
+    color: coral;
+    
+}
+.Services{
+    width: 1700px;
+    height: 650px;
+}
+.Services-div{
+    width: 500px;
+    height: 130px;
+    background-color: beige;
+    margin-left: 430px;
+    padding-left: 20px;
+    border-radius: 15px;
+    
+}
+.Portfolio{
+    width: 1700px;
+    height: 450px;
+    background-color:whitesmoke;
+    color: rgb(17, 4, 4);
+    text-align: center;
+    padding-top: 100px;
+    
+}
+
+.Portfolio-div{
+    
+   display: flex;
+  
+}
+.Portfolio-div-one{
+    border: 1px solid rgb(204, 124, 18);
+    
+    width: 430px;
+    height: 190px;
+    border-radius: 25px;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 50px; 
+     margin-left: 40px;
+}
+.heading{
+    font-size: 35px;
+    margin-left: 700px;
+    padding-top: 15px;
+}
+
+.Contact{
+    background-color: white;
+    height: 450px;
+    
+}
+
+.contact-div{
+    padding-left: 100px;
+}
+button{
+    color: rgb(233, 228, 218);
+    background-color: orange;
+    height: 30px;
+    margin-top: 15px;
+}
+.Testimonials{
+    width: 1700px;
+    height: 300px;
+    
+}
+.Services-div-two{
+    width: 500px;
+    height: 130px;
+    background-color: rgb(236, 234, 226);
+    margin-left: 460px;
+    padding-left: 20px;
+    border-radius: 15px;
+}
+.Testimonials{
+   text-align: center;
+   height: 300px;
+   width: 1700px;
+   background-color: brown;
+   color: white;
+   padding-top: 70px;
+   margin-top: 20px;
+  
+}
+
+.Footer{
+   text-align: center;
+   height: 300px;
+   width: 1700px;
+   background-color: rgb(19, 18, 18);
+   color: white;
+   padding-top: 70px;
+   border-bottom-right-radius: 30px;
+}
