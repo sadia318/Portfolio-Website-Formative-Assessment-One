@@ -142,12 +142,17 @@ button{
   
 }
 
-.Footer{
-   text-align: center;
-   height: 300px;
-   width: 1700px;
-   background-color: rgb(19, 18, 18);
-   color: white;
-   padding-top: 70px;
-   border-bottom-right-radius: 30px;
+.footer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 50px;
+   background-color: rgb(146, 138, 138);
+
+
+}
+.footer-one img{
+    
+    height: 160px;
+    
 }
